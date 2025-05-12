@@ -1,2 +1,2 @@
 ## Fake News Prediction
-Used Logistics Regression model to predict fake news. 
+Trained and evaluated Logistic Regression, Decision Tree, and Random Forest Classifier models to predict fake news. 
